@@ -10,7 +10,7 @@ Jumping into  work, I will proceed and provide answers to Emilia's questions.
 
 - [] The template I have chosen to work with is the fifth one. You may find the demo [here](https://sergiogval.github.io/temporal-portfolio-repo/)
 
-- [] the image I'm talking about is the one that is in the landing page right side of the screen. Here you may find a link to the image ![(../images/landing-page-image.png)]. that snippet on the debugger sections as far as I concern is harmless. Please correct me if im wrong. You may find the original files in the images folder. There you will find the encoded image. At first i thought this was some sort of code that when executed would return a snippet to animate the image. It wasn't the case. indeed i fond all kind of stuff in the in the embedded code. I went to vscode, since if figure out a pattern. each `//`was a separator. I found the following: ![(../images/codepen_output.png)]
+- [] the image I'm talking about is the one that is in the landing page right side of the screen. Here you may find a link to the image ![screenshoot](./images/landing-page-image.png)]. that snippet on the debugger sections as far as I concern is harmless. Please correct me if im wrong. You may find the original files in the images folder. There you will find the encoded image. At first i thought this was some sort of code that when executed would return a snippet to animate the image. It wasn't the case. indeed i fond all kind of stuff in the in the embedded code. I went to vscode, since if figure out a pattern. each `//`was a separator. I found the following: ![screenshot](./images/codepen_output.png)
 
 ## NOTE
 
