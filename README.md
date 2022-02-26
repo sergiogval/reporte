@@ -12,28 +12,11 @@ Jumping into  work, I will proceed and provide answers to Emilia's questions.
 
 - [] the image I'm talking about is the one that is in the landing page right side of the screen. Here you may find a link to the image ![screen-shot image.](../images/landing-page-image.png). that snippet on the debugger sections as far as I concern is harmless. Please correct me if im wrong. You may find the original files in the images folder. There you will find the encoded image. At first i thought this was some sort of code that when executed would return a snippet to animate the image. It wasn't the case. indeed i fond all kind of stuff in the in the embedded code. I went to vscode, since if figure out a pattern. each `//`was a separator. I found the following: ![codepen_output](../images/codepen_output.png)
 
+**NOTE**
 
-Do you mean the encrypted messages or something else here?
-Can you share those snippets?
+The URI bellow is what I got when I tried to log in to github.com just a few moments AGO. It is not an url since it has hidden html entities in it. ***don't click it
 
-Suspicious linter dependencies
-
-    Also, before this year I raised a ticket regarding my concerns about the dependencies of the libraries to linters our code, Your team took more than 2 weeks to give me an answer. Attached you will find the evidence that  supports that now my PC is the domain of everybody but me.
-
-
-    Can you confirm that you meant the Zendesk ticket about SysJoker Malware?
-
-
-    Finally, I would like to let you know that I won't go further with this topic.Wont share this sensible info with my mates, and legal actions are definitely out of the scope. I just will do a hard reset on this pc and implement layer over layer as countermeasure to this felony. Not even myself will be able to access to my info
-
-
-
-I am glad to see that you were able to detect the issue and fix it for yourself. Let me ask you more questions, so we can determine if other students are at risk.
-
-
-    According to the report, the malware could be transmitted by npm packages. Is there any specific package that you consider suspicious?
-    Were you able to detect the SysJoker on your machine?
-        In the screenshot, you added inline I can hardly see the output, so I can oversee something. Did you find "C:\ProgramData\SystemData\ "   directory or  igfxCUIService.exe ?
-
-
-Lastly, could you attach the screenshots from the browser and explain what they show?
+```
+https://github.com/login?client_id=01ab8ac9400c4e429b23&return_to=%2Flogin%2Foauth%2Fauthorize%3Fclient_id%3D01ab8ac9400c4e429b23%26response_type%3Dcode%26scope%3Drepo%2Bworkflow%26state%3D2ijZWQ0oE_6ASKkEQV1Sn0AdALw%252FeyJjYWxsYmFja1VyaSI6InZzY29kZTovL3ZzY29kZS5naXRodWItYXV0aGVudGljYXRpb24vZGlkLWF1dGhlbnRpY2F0ZT93aW5kb3dpZD0yIiwicmVzcG9uc2VUeXBlIjoiY29kZSIsInN0YXRlIjoiNzhiZGQ4NzgtMjJhZS00YWI0LWI5NmYtZDQ0ZGM5ODc1OWIyIiwiaWQiOiIxODcuMjA0LjIzNy4xNjYifQ
+```
+I will keep updating this section with more information. I need to do this from a different device. This one is not secure.
